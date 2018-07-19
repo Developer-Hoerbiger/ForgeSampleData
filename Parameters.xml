@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+<Component Name="LinePoints">
+ <element Name="PT1" Value="0, 0, 0"></element >
+ <element Name="PT2" Value="120, 30, 30"></element >
+</Component>
+</Root>
